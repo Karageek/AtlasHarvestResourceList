@@ -6,3 +6,6 @@ animal harvesters like elephants, bears, giraffes etc.
 Add selected lines to your defaultgame.ini file Located in  \ShooterGame\Config\defaultgame.ini
 Adjust multiplier as needed.  
 I also don't recommend you add the ENTIRE list just pick which ones to buff or nerf.
+
+This list is a work in progress there may be typos or things may not work correctly.  
+ALWAYS backup your work before implementing changes.  Please feel free to share and comment.  
