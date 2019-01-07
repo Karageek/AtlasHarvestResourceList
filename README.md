@@ -9,3 +9,6 @@ I also don't recommend you add the ENTIRE list just pick which ones to buff or n
 
 This list is a work in progress there may be typos or things may not work correctly.  
 ALWAYS backup your work before implementing changes.  Please feel free to share and comment.  
+
+If you want to give me credit feel free but it is not necessary.
+
