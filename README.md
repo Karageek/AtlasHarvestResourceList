@@ -13,3 +13,7 @@ If you want to give me credit feel free but it is not necessary.
 
 UPDATE:
 You must place these in each game.ini for each shard.  Defaultgame.ini no longer works.
+Update 2: Added Primefish
+Update 3: Fixed missing _Vegetable for some items
+Update 4: Fixed typo in Coral
+Update 5: Changed all amounts to vanilla 1.000000
