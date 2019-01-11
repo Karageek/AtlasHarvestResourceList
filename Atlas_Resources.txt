@@ -138,6 +138,7 @@ HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_Meat_
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_Meat_PrimeAnimal_C",Multiplier=2.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_Meat_Spoiled_C",Multiplier=2.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_Meat_Worms_C",Multiplier=2.000000)
+HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_Meat_PrimeFish_C",Multiplier=2.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_MedHerb_Aloe_C",Multiplier=0.200000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_MedHerb_BASE_C",Multiplier=0.200000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemConsumable_MedHerb_Basil_C",Multiplier=0.200000)
