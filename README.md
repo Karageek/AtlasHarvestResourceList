@@ -17,3 +17,4 @@ Update 2: Added Primefish
 Update 3: Fixed missing _Vegetable for some items
 Update 4: Fixed typo in Coral
 Update 5: Changed all amounts to vanilla 1.000000
+Update April 11, Fixed Wood_Fire to Wood_Fir
