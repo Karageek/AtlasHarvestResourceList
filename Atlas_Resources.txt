@@ -98,7 +98,7 @@ HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Thatch_
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Ash_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_BASE_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Cedar_C",Multiplier=1.000000)
-HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Fire_C",Multiplier=1.000000)
+HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Fir_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Ironwood_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Oak_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Wood_Pine_C",Multiplier=1.000000)
