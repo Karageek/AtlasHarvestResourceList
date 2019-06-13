@@ -15,6 +15,7 @@ HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Crystal
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Crystal_Pearl_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Crystal_Quartz_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Crystal_Tellurite_C",Multiplier=1.000000)
+HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Crystal_Amethyst_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Fibers_Bamboo_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Fibers_BASE_C",Multiplier=1.000000)
 HarvestResourceItemAmountClassMultipliers=(ClassName="PrimalItemResource_Fibers_Cotton_C",Multiplier=1.000000)
